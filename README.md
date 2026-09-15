@@ -17,7 +17,8 @@ it fails: [`computervision`](https://github.com/markusmuilu/computervision)
 a Streamlit dashboard: [`Predicting-Nba`](https://github.com/markusmuilu/Predicting-Nba) ·
 [`nba-dashboard`](https://github.com/markusmuilu/nba-dashboard)
 
-**Bachelor's thesis** — exercise recognition from wearable sensor data, graded 5:
+**Bachelor's thesis** — gym exercise recognition from wrist, leg and pocket sensors. LightGBM
+against Random Forest, macro F1 0.889 at the wrist, graded 5:
 [`gym-exercise-recognition`](https://github.com/markusmuilu/gym-exercise-recognition)
 
 More at [markusmuilu.page](https://markusmuilu.page)
