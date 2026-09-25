@@ -10,8 +10,9 @@ and AppDaemon layer driving 24 heating zones over Modbus. Running in production.
 bridge is published: [`fidelix-modbus-bridge`](https://github.com/markusmuilu/fidelix-modbus-bridge)
 
 **Basketball computer vision**: RF-DETR fine-tuned on NBA broadcast footage, ByteTrack for
-tracking, evaluated at 0.557 mAP on a held-out split. Unfinished, and the README says where
-it fails: [`computervision`](https://github.com/markusmuilu/computervision)
+tracking, 0.561 mAP on a held-out split. Players and referees are detected well; the ball and
+jersey numbers are the weak classes, which is what box score statistics would need. Unfinished:
+[`computervision`](https://github.com/markusmuilu/computervision)
 
 **NBA prediction system**: 68.2% accuracy over 674 games, deployed as a FastAPI service with
 a Streamlit dashboard: [`Predicting-Nba`](https://github.com/markusmuilu/Predicting-Nba) ·
