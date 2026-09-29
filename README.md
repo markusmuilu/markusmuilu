@@ -12,7 +12,7 @@ bridge is published: [`fidelix-modbus-bridge`](https://github.com/markusmuilu/fi
 **Basketball computer vision**: RF-DETR fine-tuned on NBA broadcast footage, ByteTrack for
 tracking, 0.561 mAP on a held-out split. Players and referees are detected well; the ball and
 jersey numbers are the weak classes, which is what box score statistics would need. Unfinished:
-[`computervision`](https://github.com/markusmuilu/computervision)
+[`basketball-cv`](https://github.com/markusmuilu/basketball-cv)
 
 **NBA prediction system**: 68.2% accuracy over 674 games, deployed as a FastAPI service with
 a Streamlit dashboard: [`Predicting-Nba`](https://github.com/markusmuilu/Predicting-Nba) ·
